@@ -4,4 +4,4 @@ The idea of this game written in assembly (risc-v) is to work similar to a game 
 
 
 
-<img src="https://github.com/4tila/Ideal_Game/blob/main/video/ideal_game.gif" width="512" height="275" />
+<img src="https://github.com/4tila/RISCV_GAME/blob/main/video/game.gif" width="512" height="275" />
